@@ -1,6 +1,7 @@
 # 🧱 Intelligent Rebar Detailing
 
 A Python application that automates the analysis of structural floor plans and optimizes rebar detailing using computer vision, engineering rules, and an interactive GUI.
+|README WAS WRITTEN WITH THE HELP OF AI!
 
 ## Table of Contents
 - [Overview](#overview)
